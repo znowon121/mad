@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.StudySprintPlanner" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowBackground">@color/ui_background</item>
+        <item name="android:statusBarColor">@color/ui_background_top</item>
+        <item name="android:navigationBarColor">@color/ui_background</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
+    </style>
+
+    <style name="Theme.StudySprintPlanner" parent="Base.Theme.StudySprintPlanner" />
+</resources>

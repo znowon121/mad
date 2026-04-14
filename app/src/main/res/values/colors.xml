@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="ui_background">#F6F8FB</color>
+    <color name="ui_background_top">#EEF3F8</color>
+    <color name="ui_card_background">#FFFFFF</color>
+    <color name="ui_card_subtle">#F1F6FA</color>
+    <color name="ui_text_primary">#0C1B2A</color>
+    <color name="ui_text_secondary">#5A6B7D</color>
+    <color name="ui_border">#D7E2EC</color>
+
+    <color name="ui_button_primary">#1F7A8C</color>
+    <color name="ui_button_primary_pressed">#17606E</color>
+    <color name="ui_button_secondary">#E8F4F6</color>
+    <color name="ui_button_secondary_pressed">#D8ECEF</color>
+    <color name="ui_button_secondary_text">#184E59</color>
+
+    <color name="ui_primary">#1F7A8C</color>
+    <color name="ui_primary_dark">#17606E</color>
+    <color name="ui_primary_soft">#1A1F7A8C</color>
+
+    <color name="ui_success">#1B9E77</color>
+    <color name="ui_warning">#D97706</color>
+    <color name="ui_accent">#0EA5A6</color>
+    <color name="ui_accent_soft">#1A0EA5A6</color>
+</resources>
